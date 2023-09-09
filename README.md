@@ -9,18 +9,18 @@ to derive insights and suggest strategies for better segmentation and customer p
 ## Content
 
 #### 01.Scripts
-* Instacart_Data_Analysis_Final_Report_Script_Adilya Zaripova.ipynb  
-* Overview of User Data Concerns.ipynb  
-* Addressing Missing Product Data.ipynb  
+* [Instacart_Data_Analysis_Final_Report_Script_Adilya Zaripova.ipynb](https://github.com/adilyaza/BI-Analysis-Instacart/blob/3e030975b5c2c2157b6c50ee5deaf347d0bc7401/08-2023%20Instacart%20Basket%20BI%20Analysis/01.Scripts/Instacart_Data_Analysis_Final_Report_Script_Adilya%20Zaripova.ipynb)  
+* [Overview of User Data Concerns.ipynb](https://github.com/adilyaza/BI-Analysis-Instacart/blob/3e030975b5c2c2157b6c50ee5deaf347d0bc7401/08-2023%20Instacart%20Basket%20BI%20Analysis/01.Scripts/Overview%20of%20User%20Data%20Concerns.ipynb)  
+* [Addressing Missing Product Data.ipynb](https://github.com/adilyaza/BI-Analysis-Instacart/blob/3e030975b5c2c2157b6c50ee5deaf347d0bc7401/08-2023%20Instacart%20Basket%20BI%20Analysis/01.Scripts/Addressing%20Missing%20Product%20Data.ipynb)  
 
 #### 02.Visualizations
-Data visualizations created using
+Data [visualizations](https://github.com/adilyaza/BI-Analysis-Instacart/tree/3e030975b5c2c2157b6c50ee5deaf347d0bc7401/08-2023%20Instacart%20Basket%20BI%20Analysis/02.Visualizations) created using
 - matplotlib
 - seaborn
 
 #### 03.Final deliverables
-* Instacart_Data_Analysis_Final_Report_Adilya_Zaripova.xlsx  
-* Instacart_Grocery_Basket_Analysis_Exracted_Data.xlsx  
+* [Instacart_Data_Analysis_Final_Report_Adilya_Zaripova.xlsx](https://github.com/adilyaza/BI-Analysis-Instacart/blob/3e030975b5c2c2157b6c50ee5deaf347d0bc7401/08-2023%20Instacart%20Basket%20BI%20Analysis/03.%20Final%20deliverables/Instacart_Data_Analysis_Final_Report_Adilya_Zaripova.xlsx)  
+* [Instacart_Grocery_Basket_Analysis_Exracted_Data.xlsx](https://github.com/adilyaza/BI-Analysis-Instacart/blob/3e030975b5c2c2157b6c50ee5deaf347d0bc7401/08-2023%20Instacart%20Basket%20BI%20Analysis/03.%20Final%20deliverables/Instacart_Grocery_Basket_Analysis_Exracted_Data.xlsx)  
 
 #### Data:
 "The Instacart Online Grocery Shopping Dataset 2017", accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle.  
