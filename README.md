@@ -21,7 +21,6 @@ Data visualizations created using
 #### 03.Final deliverables
 * Instacart_Data_Analysis_Final_Report_Adilya_Zaripova.xlsx  
 * Instacart_Grocery_Basket_Analysis_Exracted_Data.xlsx  
-* Instacart_Grocery_Basket_Analysis_Users_Under_Five_Orders.xlsx  
 
 #### Data:
 "The Instacart Online Grocery Shopping Dataset 2017", accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle.  
